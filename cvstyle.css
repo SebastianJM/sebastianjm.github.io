@@ -1,0 +1,121 @@
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+    color: #5c5c5c;
+    font-weight: 500;
+    font-size: 15px;
+}
+li {
+    margin-top: 4px;
+}
+a:link {
+    color: #333333;
+}
+a:visited {
+    color: #333333;
+}
+#cvbody {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.container_center {
+    font-family: 'Roboto'; 
+    text-align: center; 
+}
+.cvposition {
+    font-weight: 400; 
+    font-size: 12px; 
+    color: #DC3522;
+}
+.cvsection {
+    font-family: 'Roboto'; 
+}
+.cvsectionheader {
+    font-weight: 900;
+    font-size: 25px;
+    margin-top: 40px;
+    color: #333333;
+    width: 100%; 
+    text-align: left; 
+    border-bottom: 1.2px solid #333333;
+    line-height:0.7em;
+}
+.cvsectiontitle {
+    background: #fff; 
+    padding-right: 5px;
+}
+.cvsubsection {
+    font-family: 'Roboto'; 
+    float: none;
+}
+.cvsubsectionheader {
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.cvsubsectiontitle {
+    font-weight: 800;
+    font-size: 15px;
+    width: 50%;
+    text-align: left;
+}
+.cvsubsectionextra {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 15px;
+    color: #DC3522;
+    width: 50%;
+    text-align: right;
+}
+.cvsubsectionsubheader {
+    color: #5c5c5c;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.cvsubsectionsubtitle {
+    font-weight: bold;
+    font-size: 13px;
+    width: 50%;
+    text-align: left;
+}
+.cvsubsectionsubextra {
+    font-weight: 500;
+    font-size: 14px;
+    font-style: italic;
+    width: 50%;
+    text-align: right;
+}
+.cvtable1column1 {
+    width: 13%; 
+    text-align: right; 
+    font-weight: bold; 
+    font-size: 15px;
+}
+.cvtable1column2 {
+    width: 87%; 
+    text-align: left; 
+    color: #5c5c5c; 
+    font-weight: 500; 
+    font-size: 15px;
+}
+.cvtable2column1 {
+    width: 10%; 
+    font-weight: 500;
+    color: #5c5c5c;
+}
+.cvtable2column2 {
+    width: 70%; 
+    text-align: left; 
+    font-weight: bold; 
+    font-size: 15px;
+}
+.cvtable2column3 {
+    width: 20%; 
+    text-align: right; 
+    font-weight: 400;
+    font-style: italic;
+    font-size: 15px;
+    color: #DC3522;
+}
