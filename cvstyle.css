@@ -18,13 +18,18 @@ a:visited {
     margin-right: 50px;
     margin-left: 50px;
 }
+.cvcontact {
+    display: inline; 
+    font-weight: 400; 
+    font-size: 14px; 
+}
 .container_center {
     font-family: 'Roboto'; 
     text-align: center; 
 }
 .cvposition {
     font-weight: 400; 
-    font-size: 12px; 
+    font-size: 14px; 
     color: #DC3522;
 }
 .cvsection {
@@ -38,7 +43,7 @@ a:visited {
     width: 100%; 
     text-align: left; 
     border-bottom: 1.2px solid #333333;
-    line-height:0.7em;
+    line-height: 0.7em;
 }
 .cvsectiontitle {
     background: #fff; 
